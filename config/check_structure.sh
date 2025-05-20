@@ -34,8 +34,8 @@
 #set -xv
 
 # === Configuration ===
-# PROJET_DIR="$HOME/Projets/Essence_de_Vie"
-PROJET_DIR="/home/thierry63/kDrive/Essence_de_Vie/"
+# PROJET_DIR="$HOME/Projets/Essence-de-Vie"
+PROJET_DIR="/home/thierry63/kDrive/Essence-de-Vie/"
 DATE=$(date +"%Y-%m-%d %H:%M")
 
 clear

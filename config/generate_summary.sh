@@ -34,7 +34,7 @@
 #set -xv
 
 # === Configuration ===
-PROJET_DIR="$HOME/kDrive/Essence_de_Vie"
+PROJET_DIR="$HOME/kDrive/Essence-de-Vie"
 PUBLIC_DIR="$PROJET_DIR/public"
 MANIFESTE_DIR="$PUBLIC_DIR/manifeste"
 DOCS_DIR="$PUBLIC_DIR/docs"

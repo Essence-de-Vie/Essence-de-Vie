@@ -2,7 +2,7 @@
 # Un outil pour gérer facilement ton projet autour de la TRM
 
 # === Variables ===
-PROJET_DIR     := $(HOME)/kDrive/Essence_de_Vie
+PROJET_DIR     := $(HOME)/kDrive/Essence-de-Vie
 PUBLIC_DIR     := $(PROJET_DIR)/public
 MANIFESTE_DIR  := $(PUBLIC_DIR)/manifeste
 DOCS_DIR       := $(PUBLIC_DIR)/docs

@@ -35,7 +35,7 @@
 
 # /bin/date -d 'now'
 
-PROJET_DIR="$HOME/kDrive/Essence_de_Vie"
+PROJET_DIR="$HOME/kDrive/Essence-de-Vie"
 
 nombre_fichiers=0
 
